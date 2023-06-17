@@ -1,8 +1,8 @@
 # FoodExplorer: Your Personal Restaurant Recommendation App for Philadelphia
 
 <div style="display: flex;">
-    <img src="images/philadelphia.jpg" alt="Image 1" style="width: 45%; padding-right: 5px; display: inline-block;">
-    <img src="images/restaurant.jpg" alt="Image 2" style="width: 45%; display: inline-block;">
+    <img src="images/philadelphia.jpg" alt="Image 1" style="width: 20%; padding-right: 5px; display: inline-block;">
+    <img src="images/restaurant.jpg" alt="Image 2" style="width: 20%; display: inline-block;">
 </div>
 
 ![Alt Text](images/ui.png)
